@@ -1,4 +1,6 @@
 # AngularAnimations
+## Tutorial
+* https://zerotomastery.io/blog/angular-animations-and-examples/
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.1.
 
